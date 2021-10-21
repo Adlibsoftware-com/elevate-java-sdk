@@ -1,2 +1,2 @@
-# elevate-java-sdk
+# DEPRECATED
 Adlib Elevate Java SDK
